@@ -5,7 +5,7 @@
 - <b>Artifical Intelligence</b>
 - <b>Robotics and Mechatronics</b>
 - <b>Autonomous Systems</b>
-- <b>Engineering Design</b>
+- <b>Machine Learning</b>
 - <b>Space Systems and Physics</b>
 
 <h2>🗃️ Experience</h2>
