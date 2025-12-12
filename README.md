@@ -25,7 +25,8 @@
 - **[Study Fatigue & Burnout Risk Analyzer](https://github.com/shreeyahi/study-fatigue-risk-analyzer)**  
   Human-centered ML project that explores how daily study habits relate to next-day fatigue.
 
- - **[ 
+ - **[Real-Time Face Tracking & Smile Detection (Python + OpenCV)](https://github.com/shreeyahi/face-tracking-visual-servo)**
+   Tracks a face and maps its horizontal position to a virtual servo angle (0°–180°) and performs basic smile/no-smile detection by analyzing the mouth and printing the result to the terminal.
 
 <h2>📋 Currently Working On</h2>
 
