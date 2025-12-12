@@ -11,7 +11,7 @@
 <h2>🗃️ Experience</h2>
 
 - <b>Student Researcher at Astracore Research</b>
-- <b>Interstellar Minds Summer Reserach Program</b>
+- <b>Interstellar Minds Summer Research Program</b>
 - <b>Wrote an Academic Research paper on Wormholes and Warp Drives</b>
 - <b>Robotics Team (school)</b>
 - <b>STEM Competition (Curtin Univeristy, Dubai)</b>
