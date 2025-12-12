@@ -17,7 +17,15 @@
 - <b>STEM Competition (Curtin Univeristy, Dubai)</b>
 - <b>Prototyping on CAD</b>
 
-<h2>👩‍💻 Currently Working On</h2>
+<h2>👩‍💻 Projects</h2>
+
+- **[OKC 73-Win Probability Simulator](https://github.com/shreeyahi/okc-73-win-probability)**
+  Probabilistic modeling project exploring whether the Oklahoma City Thunder of the National Basketball Association (NBA) could surpass the Warriors' historic 73-9 season.
+
+- **[Study Fatigue & Burnout Risk Analyzer](https://github.com/shreeyahi/study-fatigue-risk-analyzer)**  
+  Human-centered ML project that explores how daily study habits relate to next-day fatigue.
+
+<h2>📋 Currently Working On</h2>
 
 - <b>Building my GitHub Portfolio</b>
 - <b>Learning ML fundamentals</b>
